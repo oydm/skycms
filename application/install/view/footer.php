@@ -1,0 +1,1 @@
+<div class="footer"> &copy; 2015 - {:date("Y")} <a href="http://www.skycms.com" target="_blank">http://www.skycms.com</a>（SkyCMS管理系统） </div>
